@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+UC1
       <module fileurl="file://$PROJECT_DIR$/.idea/Palindrome.iml" filepath="$PROJECT_DIR$/.idea/Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrome_Checker/Palindrome_Checker.iml" filepath="$PROJECT_DIR$/Palindrome_Checker/Palindrome_Checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PALINDROME CHECKER APP.iml" filepath="$PROJECT_DIR$/PALINDROME CHECKER APP.iml" />
+main
     </modules>
   </component>
 </project>
